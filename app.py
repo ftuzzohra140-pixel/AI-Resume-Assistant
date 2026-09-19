@@ -13,7 +13,7 @@ from google.genai import types
 # -----------------------------
 # App configuration
 # -----------------------------
-MODEL = "gemini-3.6-flash"
+MODEL = "gemini-2.5-flash"
 
 st.set_page_config(
     page_title="Resume ATS Analyzer",
